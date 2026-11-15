@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/divan/Work/Practices/mp2-lab5/build/cmake_install.cmake",
+		"/home/divan/Work/Practices/mp2-lab5/build/samples/cmake_install.cmake",
+		"/home/divan/Work/Practices/mp2-lab5/build/gtest/cmake_install.cmake",
+		"/home/divan/Work/Practices/mp2-lab5/build/test/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

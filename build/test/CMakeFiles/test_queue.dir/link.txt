@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/test_queue.dir/link.d CMakeFiles/test_queue.dir/test_forwardlist.cpp.o CMakeFiles/test_queue.dir/test_main.cpp.o CMakeFiles/test_queue.dir/test_queue.cpp.o -o ../bin/test_queue  ../lib/libgtest.a -pthread

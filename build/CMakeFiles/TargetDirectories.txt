@@ -1,0 +1,12 @@
+/home/divan/Work/Practices/mp2-lab5/build/CMakeFiles/queue.dir
+/home/divan/Work/Practices/mp2-lab5/build/CMakeFiles/edit_cache.dir
+/home/divan/Work/Practices/mp2-lab5/build/CMakeFiles/rebuild_cache.dir
+/home/divan/Work/Practices/mp2-lab5/build/samples/CMakeFiles/main.dir
+/home/divan/Work/Practices/mp2-lab5/build/samples/CMakeFiles/edit_cache.dir
+/home/divan/Work/Practices/mp2-lab5/build/samples/CMakeFiles/rebuild_cache.dir
+/home/divan/Work/Practices/mp2-lab5/build/gtest/CMakeFiles/gtest.dir
+/home/divan/Work/Practices/mp2-lab5/build/gtest/CMakeFiles/edit_cache.dir
+/home/divan/Work/Practices/mp2-lab5/build/gtest/CMakeFiles/rebuild_cache.dir
+/home/divan/Work/Practices/mp2-lab5/build/test/CMakeFiles/test_queue.dir
+/home/divan/Work/Practices/mp2-lab5/build/test/CMakeFiles/edit_cache.dir
+/home/divan/Work/Practices/mp2-lab5/build/test/CMakeFiles/rebuild_cache.dir
